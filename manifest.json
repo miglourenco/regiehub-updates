@@ -9,7 +9,15 @@
       "notes": "Ganho do micro ajustável na régie e no portal do beltpack.",
       "sig": "b4e1141a4ff8b4520d029dce084c3717b8537bf5c13e7b412eb807c7891a804578c285a1727329bf4fedf32dbcc764655f6a7fbbb452930e88bfd5c638261f4a",
       "url": "https://github.com/miglourenco/regiehub-updates/releases/download/beltpack-0.3.3/beltpack-0.3.3.bin"
+    },
+    "tally": {
+      "version": "0.3.6",
+      "date": "2026-11-16",
+      "size": 990256,
+      "sha256": "18788d5568556d918ba5f49fac536409132fa522a9534a222fbbead5182bbbe0",
+      "notes": "Encontra o hub pela VPN sozinho (sem IP de recurso) e prefere o da rede local; grava as redes de origem no primeiro arranque.",
+      "url": "https://github.com/miglourenco/regiehub-updates/releases/download/tally-0.3.6/tally-0.3.6.bin"
     }
   },
-  "updated": "2026-11-16T19:41:04Z"
+  "updated": "2026-11-16T20:23:00Z"
 }
