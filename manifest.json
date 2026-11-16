@@ -1,4 +1,15 @@
 {
   "schema": 1,
-  "firmware": {}
+  "firmware": {
+    "beltpack": {
+      "version": "0.3.2",
+      "date": "2026-11-16",
+      "size": 1134016,
+      "sha256": "8f2f456eb6d01e262ea85359bf6a56199bbac51be84d92155b4a2c2192fe7004",
+      "notes": "Atualiza-se a partir da RegieHub; encontra a régie pela VPN; grava as redes de origem no primeiro arranque.",
+      "sig": "c80e66ecfca9421310768eb264712feef48047d02fd1fa3469f5ff0498e7a0d87fb7a8cf788c7104b12055f53a4d363ab36dc003b8c5b984c41463a007a57375",
+      "url": "https://github.com/miglourenco/regiehub-updates/releases/download/beltpack-0.3.2/beltpack-0.3.2.bin"
+    }
+  },
+  "updated": "2026-11-16T19:21:50Z"
 }
