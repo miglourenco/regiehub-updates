@@ -2,14 +2,14 @@
   "schema": 1,
   "firmware": {
     "beltpack": {
-      "version": "0.3.2",
+      "version": "0.3.3",
       "date": "2026-11-16",
-      "size": 1134016,
-      "sha256": "8f2f456eb6d01e262ea85359bf6a56199bbac51be84d92155b4a2c2192fe7004",
-      "notes": "Atualiza-se a partir da RegieHub; encontra a régie pela VPN; grava as redes de origem no primeiro arranque.",
-      "sig": "c80e66ecfca9421310768eb264712feef48047d02fd1fa3469f5ff0498e7a0d87fb7a8cf788c7104b12055f53a4d363ab36dc003b8c5b984c41463a007a57375",
-      "url": "https://github.com/miglourenco/regiehub-updates/releases/download/beltpack-0.3.2/beltpack-0.3.2.bin"
+      "size": 1135872,
+      "sha256": "e57dca7adb21ce8418100db45798b9e0ee91161ec4ad65f8615e6dcd006ceee6",
+      "notes": "Ganho do micro ajustável na régie e no portal do beltpack.",
+      "sig": "b4e1141a4ff8b4520d029dce084c3717b8537bf5c13e7b412eb807c7891a804578c285a1727329bf4fedf32dbcc764655f6a7fbbb452930e88bfd5c638261f4a",
+      "url": "https://github.com/miglourenco/regiehub-updates/releases/download/beltpack-0.3.3/beltpack-0.3.3.bin"
     }
   },
-  "updated": "2026-11-16T19:21:50Z"
+  "updated": "2026-11-16T19:41:04Z"
 }
