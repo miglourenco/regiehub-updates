@@ -2,13 +2,13 @@
   "schema": 1,
   "firmware": {
     "beltpack": {
-      "version": "0.3.4",
+      "version": "0.3.5",
       "date": "2026-11-20",
-      "size": 1136992,
-      "sha256": "b811f23ef0f6c1559f1c7507dbe7b08d62d3526f85eb218c01ccef27c3610e88",
-      "notes": "Estado da caixa no portal (ecrã, potenciómetro, motor, PTT); o ecrã é encontrado mesmo com SDA/SCL trocados; Identificar vibra 3 s.",
-      "sig": "f03788fca01f4eb3fb4b741c0418331b6e1e2d48ee01e7bc0b3d7952e6bb376fa606b5627ea478e043ab69198d2c39cbc24b958a99374680a4d4027a9a10cf16",
-      "url": "https://github.com/miglourenco/regiehub-updates/releases/download/beltpack-0.3.4/beltpack-0.3.4.bin"
+      "size": 1207680,
+      "sha256": "8bb2ec546defbedee5ee6ce0972500bb9ac5349bcfe3a44cf87753cd314385e3",
+      "notes": "Áudio sem cortes; sidetone no próprio beltpack (~10 ms, −18 dB por omissão); perfil WAN em G.722; voz do tally (Preview, Live, Off air, Off), ligada pela régie; ecrã novo e bateria como nos tallies; vibração só no Identificar e na chamada.",
+      "sig": "1758c2c734962ee88c7ed7e96de30b0110ea7e69edf34af9127abf2cfe2a5a2f467b9917b0caaea7f29ca0ab9afe1be1ee64b798219d59215cc28d340405d652",
+      "url": "https://github.com/miglourenco/regiehub-updates/releases/download/beltpack-0.3.5/beltpack-0.3.5.bin"
     },
     "tally": {
       "version": "0.3.6",
@@ -19,5 +19,5 @@
       "url": "https://github.com/miglourenco/regiehub-updates/releases/download/tally-0.3.6/tally-0.3.6.bin"
     }
   },
-  "updated": "2026-11-20T15:00:57Z"
+  "updated": "2026-11-20T18:27:54Z"
 }
