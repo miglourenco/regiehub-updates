@@ -2,13 +2,13 @@
   "schema": 1,
   "firmware": {
     "beltpack": {
-      "version": "0.3.3",
-      "date": "2026-11-16",
-      "size": 1135872,
-      "sha256": "e57dca7adb21ce8418100db45798b9e0ee91161ec4ad65f8615e6dcd006ceee6",
-      "notes": "Ganho do micro ajustável na régie e no portal do beltpack.",
-      "sig": "b4e1141a4ff8b4520d029dce084c3717b8537bf5c13e7b412eb807c7891a804578c285a1727329bf4fedf32dbcc764655f6a7fbbb452930e88bfd5c638261f4a",
-      "url": "https://github.com/miglourenco/regiehub-updates/releases/download/beltpack-0.3.3/beltpack-0.3.3.bin"
+      "version": "0.3.4",
+      "date": "2026-11-20",
+      "size": 1136992,
+      "sha256": "b811f23ef0f6c1559f1c7507dbe7b08d62d3526f85eb218c01ccef27c3610e88",
+      "notes": "Estado da caixa no portal (ecrã, potenciómetro, motor, PTT); o ecrã é encontrado mesmo com SDA/SCL trocados; Identificar vibra 3 s.",
+      "sig": "f03788fca01f4eb3fb4b741c0418331b6e1e2d48ee01e7bc0b3d7952e6bb376fa606b5627ea478e043ab69198d2c39cbc24b958a99374680a4d4027a9a10cf16",
+      "url": "https://github.com/miglourenco/regiehub-updates/releases/download/beltpack-0.3.4/beltpack-0.3.4.bin"
     },
     "tally": {
       "version": "0.3.6",
@@ -19,5 +19,5 @@
       "url": "https://github.com/miglourenco/regiehub-updates/releases/download/tally-0.3.6/tally-0.3.6.bin"
     }
   },
-  "updated": "2026-11-16T20:23:00Z"
+  "updated": "2026-11-20T15:00:57Z"
 }
